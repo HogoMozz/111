@@ -118,9 +118,7 @@
 | 下         | xià           | under/below       |                   |
 | 下午       | xiàwǔ         | afternoon         |                   |
 | 下雨       | xià yǔ        | rain              |                   |
-| 先生       | xiānsheng     |
-
- Mr./husband       |                   |
+| 先生       | xiānsheng     | Mr./husband       |                   |
 | 现在       | xiànzài       | now               |                   |
 | 想         | xiǎng         | want/think        |                   |
 | 小         | xiǎo          | small             |                   |
